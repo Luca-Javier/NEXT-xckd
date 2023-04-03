@@ -23,5 +23,5 @@ Then to renovate the data and get ultimates comics run `npm run scrap`.
 To use the search yo will need to refill the `.env.example` variables with [Algolia][algolia]
 
 [comics]: https://xkcd.com/
-[page]: https://soon.com
+[page]: https://next-comics-xkcd.vercel.app/
 [algolia]: https://www.algolia.com/

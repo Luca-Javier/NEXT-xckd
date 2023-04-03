@@ -4,6 +4,8 @@ import algoliasearch from "algoliasearch"
 const APP_ID = process.env.APP_ID
 const API_KEY = process.env.API_KEY
 
+console.log(APP_ID, API_KEY)
+
 const search = async query => {
   const client = algoliasearch(APP_ID, API_KEY)
   const index = client.initIndex("comics_xkcd")
