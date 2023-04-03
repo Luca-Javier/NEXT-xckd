@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "1.3.4",
+    "fs-extra": "11.1.1",
+    "image-size": "1.0.2"
+  },
+  "name": "first-project-scraper",
+  "version": "1.0.0",
+  "description": "Sacando comics con un scraper de node y front con Next",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrap": "node index.js",
+    "dev": "cd comics-next-project/ && npm run dev"
+  },
+  "author": "Luca Javier",
+  "license": "MIT"
+}

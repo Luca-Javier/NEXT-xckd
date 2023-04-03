@@ -1,0 +1,12 @@
+{
+  "SEO_TITLE": "xkcd - Comics For Developers",
+  "LASTEST_COMICS": "Lastest Comics",
+  "SEARCH_RESULTS_TITLE": "${1} Results for ${2}",
+  "HOME": "Home",
+  "SEARCH_PLACEHOLDER": "Search...",
+  "SEE_RESULTS": "See ${1} results",
+  "PAGE_DESIGNED_BY": "Page designed by ",
+  "ALL_COMICS_BY": "All comics from ",
+  "NEXT": "Next",
+  "PREVIOUS": "Previous"
+}
